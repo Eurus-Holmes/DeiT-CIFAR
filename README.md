@@ -1,6 +1,6 @@
 # Finetune Deit on CIFAR-10
 
-The code was adapted from [DeiT](https://github.com/facebookresearch/deit), but make sure you have the [pytorch-image-models]((https://github.com/rwightman/pytorch-image-models)) package `timm==0.4.12`.
+The code was adapted from [DeiT](https://github.com/facebookresearch/deit), but make sure you have the [pytorch-image-models](https://github.com/rwightman/pytorch-image-models) package `timm==0.4.12`.
 
 ```
 pip install timm==0.4.12
